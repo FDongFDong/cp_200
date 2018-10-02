@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "126 함수 템플릿 사용하기", "126 함수 템플릿 사용하기\126 함수 템플릿 사용하기.vcxproj", "{82C1DC16-3582-4299-87F6-D7FF25041893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C1DC16-3582-4299-87F6-D7FF25041893}.Debug|x64.ActiveCfg = Debug|x64
+		{82C1DC16-3582-4299-87F6-D7FF25041893}.Debug|x64.Build.0 = Debug|x64
+		{82C1DC16-3582-4299-87F6-D7FF25041893}.Debug|x86.ActiveCfg = Debug|Win32
+		{82C1DC16-3582-4299-87F6-D7FF25041893}.Debug|x86.Build.0 = Debug|Win32
+		{82C1DC16-3582-4299-87F6-D7FF25041893}.Release|x64.ActiveCfg = Release|x64
+		{82C1DC16-3582-4299-87F6-D7FF25041893}.Release|x64.Build.0 = Release|x64
+		{82C1DC16-3582-4299-87F6-D7FF25041893}.Release|x86.ActiveCfg = Release|Win32
+		{82C1DC16-3582-4299-87F6-D7FF25041893}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1497E670-FCAF-4C9A-ADB9-DC6F56A605A3}
+	EndGlobalSection
+EndGlobal
